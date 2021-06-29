@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 
 Вдохновляют: Ханс Циммер, Илон Маск, Юра Музыченко, Илья Климов, Влад Кяуне, Александр Братчиков.
 
-[![Linkedin Badge](https://img.shields.io/badge/-IlnuraFattakhova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/)
-[![Instagram Badge](https://img.shields.io/badge/-betelgeuse.21-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/betelgeuse.21/)](https://www.instagram.com/betelgeuse.21/)
-[![Youtube Badge](https://img.shields.io/badge/-Fattakhova-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://clck.ru/VnYwH)](https://clck.ru/VnYwH)
+[![Linkedin Badge](	https://img.shields.io/badge/-IlnuraFattakhova-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/)
+[![Instagram Badge](https://img.shields.io/badge/-betelgeuse.21-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/betelgeuse.21/)](https://www.instagram.com/betelgeuse.21/)
+[![Youtube Badge](https://img.shields.io/badge/-Fattakhova-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://clck.ru/VnYwH)](https://clck.ru/VnYwH)
 [![Telegram Badge](https://img.shields.io/badge/-papaya21-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/papaya21)](https://t.me/papaya21)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ## Стэк технологий
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
