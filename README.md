@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-IlnuraFattakhova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/)
 [![Instagram Badge](https://img.shields.io/badge/-betelgeuse.21-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/betelgeuse.21/)](https://www.instagram.com/betelgeuse.21/)
 [![Youtube Badge](https://img.shields.io/badge/-Fattakhova-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://clck.ru/VnYwH)](https://clck.ru/VnYwH)
-
+[![Telegram Badge](https://img.shields.io/badge/-papaya21-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/papaya21)](https://t.me/papaya21)
 ## Стэк технологий
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
