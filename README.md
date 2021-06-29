@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=paramore21&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paramore21&hide=TeX&layout=compact)
