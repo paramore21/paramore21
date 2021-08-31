@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-Fattakhova-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://clck.ru/VnYwH)](https://clck.ru/VnYwH)
 [![Telegram Badge](https://img.shields.io/badge/-papaya21-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/papaya21)](https://t.me/papaya21)
 [![Gmail Badge](https://img.shields.io/badge/-Fattakhova-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ilnuro4ka01@gmail.com)](mailto:ilnuro4ka01@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-owls_inspired-D14836?style=for-the-badge&logo=twitter&link=https://twitter.com/owls_inspired)](https://twitter.com/owls_inspired)
+[![Twitter Badge](https://img.shields.io/badge/-owls_inspired-2CA5E0?style=for-the-badge&logo=twitter&link=https://twitter.com/owls_inspired)](https://twitter.com/owls_inspired)
 
 ## Стэк технологий
 
