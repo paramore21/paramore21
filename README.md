@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Пришла во фронтенд потому что очень нравится видеть результат работы сразу. Быстро нахожу общий язык с людьми. Люблю работу в команде, так проще обговаривать детали, узнавать что-то новое от коллег, расти профессионально.
 
-Вдохновляют: Ханс Циммер, Илон Маск, Юра Музыченко, Илья Климов, Влад Кяуне, Александр Братчиков.
+Вдохновляют: Ханс Циммер, Илон Маск, Юра Музыченко, Влад Кяуне, Александр Патлух, Александр Братчиков.
 
 [![Linkedin Badge](	https://img.shields.io/badge/-Fattakhova-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://clck.ru/Vh526/)
 [![Instagram Badge](https://img.shields.io/badge/-betelgeuse.21-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/betelgeuse.21/)](https://www.instagram.com/betelgeuse.21/)
